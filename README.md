@@ -1,5 +1,5 @@
 # nhentai-favorites-downloader
-###Ruby script to automate downloads for your favorite list.
+### Ruby script to automate downloads for your favorite list.
 
 Once executed, you have to input your login and that's it.
 
